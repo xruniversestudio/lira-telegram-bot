@@ -1,1 +1,8 @@
 
+{
+  "name": "lira-telegram-bot",
+  "type": "module",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
